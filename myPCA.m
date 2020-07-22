@@ -11,6 +11,7 @@ Cov=cov(X);
 
 % %去均值化
 % % mean_=X-ones(size(X,1),1)*mean(X);
+%
 % %计算协方差
 % % Cov=mean_'*out_mean_/(size(X,1)-1);
 
